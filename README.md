@@ -65,5 +65,5 @@ We evaluate:
 - Understanding of basics
 - Effort and learning ability
 
-![alt text](image.png)
+
 ![alt text]({40127EFE-8A05-4F5C-8E33-478A5DB23627}.png)
